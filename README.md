@@ -63,4 +63,5 @@ To start the Streamlit app, run:
 streamlit run app.py
 ```
 
-[App Link](https://techresumeapp.streamlit.app/)
+
+[App Link](https://kushal-resume-analyser.streamlit.app/)
