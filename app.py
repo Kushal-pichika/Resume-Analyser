@@ -4,7 +4,7 @@ import torch
 from peft import PeftModel
 
 
-model_id = "pranalibose/flan-t5-base"  # Your model ID on the Hub
+model_id = "kushal1208/flan-t5-base"  # Your model ID on the Hub
 
 # 1. Load the base model (T5 in this case)
 base_model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-base")  # Or whatever your base model is
